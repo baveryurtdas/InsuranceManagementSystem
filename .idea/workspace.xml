@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26bb5682-c5c7-43e9-b600-0558362b5567" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/AccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/AddressManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/BusinessAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/CarInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/EnterpriseAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/EnterpriseInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/HealthInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/HomeAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/IndividualAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/InvalidAuthenticationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/ResidenceInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/TravelInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InsuranceManagementSystem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2cP8EspLdbqoqNIvpZ8nGV9c95J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/baver/Desktop/dosyalarım/JavaProjects/InsuranceManagementSystem/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26bb5682-c5c7-43e9-b600-0558362b5567" name="Changes" comment="" />
+      <created>1708001746962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708001746962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
